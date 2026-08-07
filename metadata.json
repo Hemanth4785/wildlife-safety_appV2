@@ -1,0 +1,6 @@
+{
+  "name": "Wildlife Safety App",
+  "description": "Wildlife Safety frontend application architecture, code verification, and audit suite",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
