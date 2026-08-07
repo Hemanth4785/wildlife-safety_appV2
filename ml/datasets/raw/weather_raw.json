@@ -1,0 +1,38 @@
+[
+  {
+    "location": "Nilgiris Biosphere",
+    "lat": 11.4102,
+    "lon": 76.695,
+    "temperature_c": 12.39,
+    "humidity_percent": 93,
+    "pressure_hpa": 1014,
+    "wind_speed_m_s": 1.86,
+    "rainfall_mm": 0.39,
+    "visibility_m": 10000,
+    "source": "OpenWeatherAPI"
+  },
+  {
+    "location": "Mundanthurai Sanctuary",
+    "lat": 8.6833,
+    "lon": 77.3167,
+    "temperature_c": 23.06,
+    "humidity_percent": 93,
+    "pressure_hpa": 1012,
+    "wind_speed_m_s": 3.74,
+    "rainfall_mm": 0.0,
+    "visibility_m": 10000,
+    "source": "OpenWeatherAPI"
+  },
+  {
+    "location": "Anamalai Reserve",
+    "lat": 10.5,
+    "lon": 76.8333,
+    "temperature_c": 16.79,
+    "humidity_percent": 98,
+    "pressure_hpa": 1013,
+    "wind_speed_m_s": 2.86,
+    "rainfall_mm": 0.9,
+    "visibility_m": 305,
+    "source": "OpenWeatherAPI"
+  }
+]

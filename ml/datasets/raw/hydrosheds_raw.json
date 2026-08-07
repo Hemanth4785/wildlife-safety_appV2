@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Kabini River Bank",
+    "lat": 11.9167,
+    "lon": 76.35,
+    "dist_water_km": 4.94,
+    "stream_order": 1,
+    "flow_accumulation_cells": 1410,
+    "source": "HydroSHEDS_WWF"
+  },
+  {
+    "name": "Moyar River Valley",
+    "lat": 11.6,
+    "lon": 76.8833,
+    "dist_water_km": 2.86,
+    "stream_order": 1,
+    "flow_accumulation_cells": 2073,
+    "source": "HydroSHEDS_WWF"
+  },
+  {
+    "name": "Bhavani Lake Basin",
+    "lat": 11.3333,
+    "lon": 76.95,
+    "dist_water_km": 4.87,
+    "stream_order": 3,
+    "flow_accumulation_cells": 1424,
+    "source": "HydroSHEDS_WWF"
+  }
+]

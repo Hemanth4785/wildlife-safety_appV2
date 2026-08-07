@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bandipur Forest Corridor",
+    "lat": 11.6667,
+    "lon": 76.6333,
+    "elevation_m": 1097.9,
+    "slope_deg": 4.8,
+    "tri": 7.88,
+    "aspect_deg": 292.8,
+    "source": "NASA_SRTM_30m"
+  },
+  {
+    "name": "Nagarhole Basin",
+    "lat": 12.03,
+    "lon": 76.15,
+    "elevation_m": 1723.9,
+    "slope_deg": 2.0,
+    "tri": 6.2,
+    "aspect_deg": 325.0,
+    "source": "NASA_SRTM_30m"
+  },
+  {
+    "name": "Mudumalai Ridge",
+    "lat": 11.5622,
+    "lon": 76.5342,
+    "elevation_m": 916.4,
+    "slope_deg": 1.1,
+    "tri": 5.66,
+    "aspect_deg": 296.5,
+    "source": "NASA_SRTM_30m"
+  }
+]

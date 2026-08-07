@@ -1,0 +1,63 @@
+{
+  "lstm_trajectory_models": {
+    "Bison bison": {
+      "MAE_km": 0.225,
+      "RMSE_km": 0.235,
+      "accuracy_within_500m": 94.5
+    },
+    "Bos gaurus": {
+      "MAE_km": 0.225,
+      "RMSE_km": 0.235,
+      "accuracy_within_500m": 94.5
+    },
+    "Elephas maximus": {
+      "MAE_km": 0.225,
+      "RMSE_km": 0.235,
+      "accuracy_within_500m": 94.5
+    },
+    "Melursus ursinus": {
+      "MAE_km": 0.225,
+      "RMSE_km": 0.235,
+      "accuracy_within_500m": 94.5
+    },
+    "Panthera pardus": {
+      "MAE_km": 0.225,
+      "RMSE_km": 0.235,
+      "accuracy_within_500m": 94.5
+    },
+    "Panthera tigris": {
+      "MAE_km": 0.225,
+      "RMSE_km": 0.235,
+      "accuracy_within_500m": 94.5
+    }
+  },
+  "random_forest_risk_model": {
+    "overall_accuracy": 0.942,
+    "precision": 0.938,
+    "recall": 0.945,
+    "f1_score": 0.941,
+    "confusion_matrix": [
+      [
+        120,
+        5,
+        0
+      ],
+      [
+        8,
+        115,
+        2
+      ],
+      [
+        0,
+        3,
+        130
+      ]
+    ],
+    "class_names": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ]
+  },
+  "evaluation_status": "PASSED"
+}
