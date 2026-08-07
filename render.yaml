@@ -10,7 +10,13 @@ services:
         value: production
       - key: PORT
         sync: false
+      - key: OPENWEATHER_API_KEY
+        sync: false
+      - key: VITE_OPENWEATHER_API_KEY
+        sync: false
       - key: GEMINI_API_KEY
         sync: false
       - key: VITE_GEMINI_API_KEY
         sync: false
+      - key: APP_URL
+        value: https://wildlife-safety-v2.onrender.com
