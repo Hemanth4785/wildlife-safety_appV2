@@ -1,0 +1,26 @@
+# Node dependencies & build outputs
+node_modules/
+build/
+dist/
+coverage/
+*.log
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+!.env.example
+
+# Python ML cache & virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.venv/
+ml/__pycache__/
+ml/scripts/__pycache__/
+ml/logs/*.log
