@@ -37,9 +37,6 @@ An AI-powered Wildlife Safety application that helps travelers and local communi
 - Node.js
 - Express.js
 
-## Artificial Intelligence
-
-- Google Gemini API
 
 ## Machine Learning
 
